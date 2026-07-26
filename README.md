@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muralidhar Boda
 - 👀 I’m  intrested Latest Technologies 
-- 🌱 I’m currently learning : Springboot and Containers currently practising and uploading code on SpringBoot
+- 🌱 I’m giving help on resolving issues and giving support on Tech: JAVA, Spring, Springboot, Microservices, REST, JPA, ORM, Containers, Kubernates, AWS Development and AWS Solution Architech 
 
 
 <!---
